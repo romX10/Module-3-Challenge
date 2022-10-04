@@ -10,4 +10,4 @@ https://romx10.github.io/Password-Generator/
 
 ##Screenshot
 
-!(_C__Users_froma_Desktop_KU20Assignments_Challenges_Module-3-Challenge_Develop_index.html.png "Screenshot of Password Generator website")
+https://github.com/romX10/Password-Generator/blob/main/_C__Users_froma_Desktop_KU20Assignments_Challenges_Module-3-Challenge_Develop_index.html.png
